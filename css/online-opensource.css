@@ -1,0 +1,31 @@
+body {
+  background: #3f88bf;
+  background-color: #3f88bf;
+}
+
+.reveal h1 {
+  font-size: 2.5em;
+  letter-spacing: 2px;
+}
+.reveal .diminutive {
+  font-size: 60%;
+  display: block;
+  letter-spacing: 0;
+}
+
+.reveal section img {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+.modest {
+  width: 50%;
+  /*height: 121px;*/
+}
+
+.browser {
+  width: 20em;
+  height: 15em;
+  background-color: #fff;
+}
